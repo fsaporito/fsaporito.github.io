@@ -1,5 +1,5 @@
 #!bin/bash
 
-cd fsaporito
+cd ..
 
 bundle exec jekyll serve
